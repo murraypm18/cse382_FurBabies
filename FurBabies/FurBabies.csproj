@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.6.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="sqlite-net-pcl" />
+    <None Remove="breedLoad.txt" />
+    <None Remove="BreedIndividual.txt" />
+    <None Remove="Xam.Plugin.SimpleAudioPlayer" />
+    <None Remove="yay.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="breedLoad.txt" />
+    <EmbeddedResource Include="BreedIndividual.txt" />
+    <EmbeddedResource Include="yay.mp3" />
+  </ItemGroup>
+</Project>

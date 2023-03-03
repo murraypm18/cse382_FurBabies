@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="FurBabies.SettingsPage"
+    BackgroundImageSource="settingsBack.png">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Padding="0,115,0,0" HorizontalOptions="CenterAndExpand">
+                <Label Text="Preferences" BindingContext="{Reference Name=slider}" FontSize="{Binding Path=Value}" TextColor="Yellow" FontAttributes="Bold" TextDecorations="Underline"/>                
+            </StackLayout>
+            <Frame Margin="30,0,30,0" HasShadow="True" HeightRequest="300" VerticalOptions="CenterAndExpand">
+                <StackLayout>
+                    <StackLayout VerticalOptions="CenterAndExpand">
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Age of Dog Desired: "/>
+                            <Picker x:Name="age" SelectedIndexChanged="age_SelectedIndexChanged">
+                                <Picker.Items>
+                                    <x:String>Puppy</x:String>
+                                    <x:String>Adult</x:String>
+                                    <x:String>Senior</x:String>
+                                </Picker.Items>
+                            </Picker>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Fur Color: "/>
+                            <Picker x:Name="furColor" SelectedIndexChanged="furColor_SelectedIndexChanged">
+                                <Picker.Items>
+                                    <x:String>Black</x:String>
+                                    <x:String>Brown</x:String>
+                                    <x:String>Red</x:String>
+                                    <x:String>Gold</x:String>
+                                    <x:String>Cream</x:String>
+                                    <x:String>Gray</x:String>
+                                </Picker.Items>
+                            </Picker>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Good with Children: "/>
+                            <Picker x:Name="children" SelectedIndexChanged="children_SelectedIndexChanged">
+                                <Picker.Items>
+                                    <x:String>Yes</x:String>
+                                    <x:String>No</x:String>
+                                </Picker.Items>
+                            </Picker>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Hypoallergenic: "/>
+                            <Picker x:Name="aller" SelectedIndexChanged="aller_SelectedIndexChanged">
+                                <Picker.Items>
+                                    <x:String>Yes</x:String>
+                                    <x:String>No</x:String>
+                                </Picker.Items>
+                            </Picker>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Size: "/>
+                            <Picker x:Name="size" SelectedIndexChanged="size_SelectedIndexChanged">
+                                <Picker.Items>
+                                    <x:String>Small (0-25 lbs)</x:String>
+                                    <x:String>Medium (25-60 lbs)</x:String>
+                                    <x:String>Large (61-100 lbs)</x:String>
+                                    <x:String>XL (101+ lbs)</x:String>
+                                </Picker.Items>
+                            </Picker>
+                        </StackLayout>
+                            <Label Text="{Binding Value, StringFormat='Title size: {0:F0}'}" BindingContext="{Reference slider}" Margin="0,25,0,0"/>
+                        <Slider x:Name="slider" Maximum="80" Minimum="50"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

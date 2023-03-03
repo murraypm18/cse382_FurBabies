@@ -1,0 +1,84 @@
+﻿German Sheppard,Grimm,Grimm.png,Adult,Black,No,No,Large,https://www.adoptapet.com/pet/36609587-columbus-ohio-german-shepherd-dog-mix
+German Sheppard,Gronk,Gronk.png,Adult,Black,No,No,XL,https://www.adoptapet.com/pet/36623096-columbus-ohio-german-shepherd-dog-mix
+German Sheppard,Calvin,Calvin.png,Adult,Black,Yes,No,Large,https://www.adoptapet.com/pet/36623097-columbus-ohio-german-shepherd-dog-mix
+German Sheppard,Zola,GermanSheppard.png,Adult,Black,Yes,No,Large,https://www.adoptapet.com/pet/36126170-new-albany-ohio-german-shepherd-dog
+German Sheppard,Millie,GermanSheppard.png,Adult,Brown,Yes,No,Large,https://www.adoptapet.com/pet/36375323-dublin-ohio-german-shepherd-dog
+German Sheppard,Thor,GermanSheppard.png,Senior,Black,No,No,Large,https://www.adoptapet.com/pet/36540784-hilliard-ohio-german-shepherd-dog-mix
+Bulldog,Debo,Debo.png,Puppy,Cream,Yes,No,Large,https://www.adoptapet.com/pet/35920386-lewis-center-ohio-american-bulldog
+Bulldog,Grayson,EnglishBulldog.png,Adult,Black,No,No,Medium,https://www.adoptapet.com/pet/36589539-columbus-ohio-american-bulldog-mix
+Bulldog,Boomer,Boomer.png,Puppy,Cream,No,No,Large,https://www.adoptapet.com/pet/24460248-sunbury-ohio-american-bulldog-mix
+Bulldog,Sadie Sue,EnglishBulldog.png,Puppy,Black,Yes,No,Small,https://www.adoptapet.com/pet/36551674-ashville-ohio-american-bulldog-mix
+Bulldog,Dozer,EnglishBulldog.png,Adult,Cream,No,No,Large,https://www.adoptapet.com/pet/36324234-columbus-ohio-american-bulldog-mix
+Bulldog,Zarrah,EnglishBulldog.png,Adult,Black,Yes,No,Large,https://www.adoptapet.com/pet/36466805-blacklick-ohio-american-bulldog-mix
+Great Dane,Brutus,Brutus.png,Adult,Black,No,No,XL,https://www.adoptapet.com/pet/36604789-lewis-center-ohio-great-dane
+Great Dane,Floki,Floki.png,Puppy,Black,Yes,No,Large,https://www.adoptapet.com/pet/35625853-columbus-ohio-great-dane-mix
+Great Dane,Raven,greatDane.png,Puppy,Black,Yes,No,XL,https://www.adoptapet.com/pet/36571636-columbus-ohio-great-dane
+Great Dane,Guinness,Guinness.png,Puppy,Cream,Yes,No,XL,https://www.adoptapet.com/pet/19642604-lorain-ohio-great-dane-mix
+Great Dane,Renly,greatDane.png,Adult,Black,No,No,XL,https://www.adoptapet.com/pet/36000914-greenville-pennsylvania-great-dane
+Great Dane,Mason,greatDane.png,Puppy,Black,Yes,No,Large,https://www.adoptapet.com/pet/36005967-cincinnati-ohio-great-dane-mix
+Bullmastiff,Rocky Road,RockyRoad.png,Adult,Black,No,No,Large,https://www.adoptapet.com/pet/33346141-cincinnati-ohio-cane-corso-mix
+Bullmastiff,Bison,Bison.png,Adult,Black,No,No,XL,https://www.adoptapet.com/pet/36571353-cincinnati-ohio-bullmastiff-mix
+Bullmastiff,MLB,Bullmastiff.png,Adult,Brown,Yes,No,Large,https://www.adoptapet.com/pet/36574420-cincinnati-ohio-bullmastiff-mix
+Bullmastiff,Ozzy,Bullmastiff.png,Adult,Cream,No,No,Large,https://www.adoptapet.com/pet/34262554-butler-kentucky-bullmastiff-mix
+Bullmastiff,Dax,Bullmastiff.png,Adult,Red,No,No,Large,https://www.adoptapet.com/pet/34217317-morgantown-indiana-bullmastiff-mix
+Bullmastiff,Breeze Jum,Bullmastiff.png,Adult,Gold,Yes,No,Large,https://www.adoptapet.com/pet/35363864-cincinnati-ohio-bullmastiff
+Basset Hound,Sammi,BassetHound.png,Adult,Black,Yes,No,Medium,https://www.adoptapet.com/pet/36548009-brookville-ohio-basset-hound-mix
+Basset Hound,Jack IG,BassetHound.png,Puppy,Brown,No,No,Medium,https://www.adoptapet.com/pet/36449169-cincinnati-ohio-basset-hound-mix
+Basset Hound,Sweetie,BassetHound.png,Senior,Brown,No,No,Small,https://www.adoptapet.com/pet/36519094-newport-kentucky-basset-hound-mix
+Basset Hound,Bert,BassetHound.png,Adult,Brown,No,No,Medium,https://www.adoptapet.com/pet/36068046-butler-kentucky-basset-hound-mix
+Basset Hound,Benny,BassetHound.png,Adult,Black,No,No,Medium,https://www.adoptapet.com/pet/36214718-tiffin-ohio-basset-hound-mix
+Basset Hound,Max,BassetHound.png,Adult,Cream,Yes,No,Small,https://www.adoptapet.com/pet/33328981-mt-gilead-ohio-basset-hound-mix
+Chow Chow,Dundee,ChowChow.png,Senior,Red,No,No,Medium,https://www.adoptapet.com/pet/36634674-valley-view-ohio-chow-chow-mix
+Chow Chow,Sassy,ChowChow.png,Senior,Brown,Yes,No,Medium,https://www.adoptapet.com/pet/33688788-twinsburg-ohio-chow-chow-mix
+Chow Chow,Max,ChowChow.png,Adult,Brown,Yes,No,Medium,https://www.adoptapet.com/pet/36042035-barberton-ohio-chow-chow-mix
+Chow Chow,Adyn,ChowChow.png,Adult,Brown,No,No,Medium,https://www.adoptapet.com/pet/31822386-cincinnati-ohio-chow-chow-mix
+Chow Chow,Buster,ChowChow.png,Adult,Brown,No,No,Large,https://www.adoptapet.com/pet/32922721-cincinnati-ohio-chow-chow-mix
+Chow Chow,Mia,ChowChow.png,Senior,Black,No,No,Medium,https://www.adoptapet.com/pet/30143941-liberty-indiana-chow-chow-mix
+Newfoundland,Trixi,newfoundland.png,Puppy,Cream,Yes,No,XL,https://www.adoptapet.com/pet/35111285-indianapolis-indiana-newfoundland-mix
+Newfoundland,Piper,newfoundland.png,Adult,Brown,Yes,No,Large,https://www.adoptapet.com/pet/36580400-archbold-ohio-newfoundland-mix
+Newfoundland,Midnight,newfoundland.png,Adult,Black,Yes,No,XL,https://www.adoptapet.com/pet/36484216-irwin-pennsylvania-newfoundland-mix
+Newfoundland,Sheila,newfoundland.png,Senior,Gray,Yes,No,Large,https://www.adoptapet.com/pet/36338112-greenville-illinois-newfoundland-mix
+Newfoundland,Kiki,newfoundland.png,Puppy,Gray,Yes,No,Large,https://www.adoptapet.com/pet/36439909-raleigh-north-carolina-newfoundland-mix
+Newfoundland,Sammie,newfoundland.png,Adult,Black,No,No,Large,https://www.adoptapet.com/pet/36526396-west-columbia-south-carolina-newfoundland-mix
+Husky,Carver,Husky.png,Puppy,Cream,Yes,No,Large,https://www.adoptapet.com/pet/35745139-troy-ohio-husky-mix
+Husky,Goose,Husky.png,Puppy,Brown,No,No,Medium,https://www.adoptapet.com/pet/36330757-troy-ohio-husky-mix
+Husky,Laila,Husky.png,Adult,Cream,Yes,No,Medium,https://www.adoptapet.com/pet/36175117-dayton-ohio-husky
+Husky,Akino,Husky.png,Adult,Cream,No,No,Large,https://www.adoptapet.com/pet/36429005-dayton-ohio-husky-mix
+Husky,Gaia,Husky.png,Puppy,Gray,Yes,No,Medium,https://www.adoptapet.com/pet/36484572-dayton-ohio-husky-mix
+Husky,Gunner,Husky.png,Puppy,Black,Yes,No,Medium,https://www.adoptapet.com/pet/36395595-greenville-ohio-husky-mix
+Akita,Matterhorn,Akita.png,Brown,Adult,No,No,Large,https://www.adoptapet.com/pet/36336684-cincinnati-ohio-akita-mix
+Akita,Big Boy,Akita.png,Cream,Senior,No,No,Medium,https://www.adoptapet.com/pet/36538811-west-union-ohio-akita-mix
+Akita,Solo,Akita.png,Black,Senior,Yes,No,Medium,https://www.adoptapet.com/pet/36383579-kokomo-indiana-akita-mix
+Akita,Nash,Akita.png,Brown,Puppy,No,No,Large,https://www.adoptapet.com/pet/36333328-point-pleasant-west-virginia-akita-mix
+Akita,Kyle,Akita.png,Gray,Adult,No,No,Large,https://www.adoptapet.com/pet/35594393-bloomington-indiana-akita-mix
+Akita,Kaito,Akita.png,Gold,Adult,Yes,No,Large,https://www.adoptapet.com/pet/35951797-bloomington-indiana-akita
+Bernese Mountain Dog,Harold,BerneseMountain.png,Cream,Adult,No,No,Large,https://www.adoptapet.com/pet/36574504-cincinnati-ohio-bernese-mountain-dog
+Bernese Mountain Dog,Sushi,BerneseMountain.png,Gray,Adult,Yes,No,Medium,https://www.adoptapet.com/pet/28593973-kokomo-indiana-bernese-mountain-dog-mix
+Bernese Mountain Dog,Dolly,BerneseMountain.png,Cream,Puppy,Yes,No,Small,https://www.adoptapet.com/pet/36339770-millersburg-ohio-bernese-mountain-dog-mix
+Bernese Mountain Dog,Brody,BerneseMountain.png,Black,Puppy,Yes,No,Small,https://www.adoptapet.com/pet/36515020-millersburg-ohio-bernese-mountain-dog-mix
+Bernese Mountain Dog,Siren Song,BerneseMountain.png,Brown,Adult,No,No,Large,https://www.adoptapet.com/pet/36349675-mishawaka-indiana-bernese-mountain-dog
+Bernese Mountain Dog,Always Close,BerneseMountain.png,Cream,Puppy,No,No,Small,https://www.adoptapet.com/pet/36541715-mishawaka-indiana-bernese-mountain-dog-mix
+Labrador Retriever,Pongo,labradorRetriever.png,Black,Adult,Yes,No,Large,https://www.adoptapet.com/pet/33809409-tipp-city-ohio-labrador-retriever-mix
+Labrador Retriever,Arlo,labradorRetriever.png,Brown,Puppy,Yes,No,Medium,https://www.adoptapet.com/pet/36380182-englewood-ohio-labrador-retriever-mix
+Labrador Retriever,Izzy,labradorRetriever.png,Black,Puppy,Yes,No,Medium,https://www.adoptapet.com/pet/34595618-west-milton-ohio-labrador-retriever-mix
+Labrador Retriever,Angustus,labradorRetriever.png,Black,Adult,Yes,No,Medium,https://www.adoptapet.com/pet/35535039-troy-ohio-labrador-retriever
+Labrador Retriever,Shadow,labradorRetriever.png,Black,Adult,Yes,No,Medium,https://www.adoptapet.com/pet/36397098-troy-ohio-labrador-retriever
+Labrador Retriever,Meatball,labradorRetriever.png,Brown,Adult,No,No,Medium,https://www.adoptapet.com/pet/36546461-troy-ohio-labrador-retriever-mix
+Golden Retriever,Minnie,GoldenRetriver.png,Brown,Puppy,Yes,No,Medium,https://www.adoptapet.com/pet/36338825-dayton-ohio-golden-retriever-mix
+Golden Retriever,Goldie,GoldenRetriver.png,Brown,Adult,No,No,Medium,https://www.adoptapet.com/pet/35652741-richmond-indiana-golden-retriever-mix
+Golden Retriever,Stella,GoldenRetriver.png,Black,Adult,Yes,No,Medium,https://www.adoptapet.com/pet/36419765-richmond-indiana-golden-retriever-mix
+Golden Retriever,Rebel,GoldenRetriver.png,Cream,Puppy,Yes,No,Medium,https://www.adoptapet.com/pet/36509238-mount-sterling-ohio-golden-retriever-mix
+Golden Retriever,Roxanne,GoldenRetriver.png,Brown,Adult,No,No,Medium,https://www.adoptapet.com/pet/36504029-cincinnati-ohio-golden-retriever-mix
+Golden Retriever,Toffee,GoldenRetriver.png,Brown,Puppy,Yes,No,Large,https://www.adoptapet.com/pet/36549820-hillsboro-ohio-golden-retriever-mix
+Boxer,Zoey,boxer.png,Black,Puppy,No,No,Medium,https://www.adoptapet.com/pet/36281001-dayton-ohio-boxer-mix
+Boxer,Maximus,boxer.png,Brown,Adult,Yes,No,Large,https://www.adoptapet.com/pet/30851227-west-milton-ohio-boxer-mix
+Boxer,Liam,boxer.png,Black,Adult,No,No,Medium,https://www.adoptapet.com/pet/35764646-troy-ohio-boxer-mix
+Boxer,Ellie,boxer.png,Brown,Puppy,Yes,No,Medium,https://www.adoptapet.com/pet/36588808-fairborn-ohio-boxer-mix
+Beagle,Harrison,beagle.png,Cream,Adult,No,No,Small,https://www.adoptapet.com/pet/36613327-dayton-ohio-beagle-mix
+Beagle,Petey,beagle.png,Cream,Puppy,Yes,No,Medium,https://www.adoptapet.com/pet/36421088-troy-ohio-beagle-mix
+Beagle,Patches,beagle.png,Brown,Adult,Yes,No,Medium,https://www.adoptapet.com/pet/36583030-kettering-ohio-beagle-mix
+Beagle,Anna,beagle.png,Brown,Adult,Yes,No,Medium,https://www.adoptapet.com/pet/36443046-dayton-ohio-beagle
+Poodle,Jack,poodle.png,Cream,Adult,No,Yes,Medium,https://www.adoptapet.com/pet/36473640-xenia-ohio-poodle-standard
+Poodle,Sugar,poodle.png,Cream,Puppy,No,Yes,Small,https://www.adoptapet.com/pet/36625791-columbus-ohio-poodle-standard-mix
+Poodle,Binky,poodle.png,Black,Adult,Yes,Yes,Small,https://www.adoptapet.com/pet/36444545-delaware-ohio-poodle-standard-mix
+Poodle,FeeFee,poodle.png,Cream,Adult,No,Yes,Large,https://www.adoptapet.com/pet/36545941-delaware-ohio-poodle-standard

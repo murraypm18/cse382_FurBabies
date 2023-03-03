@@ -1,0 +1,15 @@
+﻿German Sheppard,GermanSheppard.png
+Bulldog,EnglishBulldog.png
+Great Dane,greatDane.png
+Bullmastiff,Bullmastiff.png
+Basset Hound,BassetHound.png
+Chow Chow,ChowChow.png
+Newfoundland,newfoundland.png
+Husky,Husky.png
+Akita,Akita.png
+Bernese Mountain Dog,BerneseMountain.png
+Labrador Retriever,labradorRetriever.png
+Golden Retriever,GoldenRetriver.png
+Boxer,boxer.png
+Beagle,beagle.png
+Poodle,poodle.png

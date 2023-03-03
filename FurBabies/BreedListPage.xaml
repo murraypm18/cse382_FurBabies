@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="FurBabies.BreedListPage"
+    BackgroundImageSource="park.png">
+    <ContentPage.Content>
+                <StackLayout>
+                     <StackLayout Padding="0,100,0,0">
+                        <Label Text="Select a Breed" FontSize="50" HorizontalOptions="CenterAndExpand" TextColor="DarkTurquoise" FontAttributes="Bold" TextDecorations="Underline"/>
+                    </StackLayout>
+                    <Frame Margin="30,60,30,0" Padding="0,0,0,0" HasShadow="True" HeightRequest="600">
+                        <ListView x:Name="ls" VerticalOptions="FillAndExpand" VerticalScrollBarVisibility="Always" RowHeight="150" SeparatorColor="red" ItemSelected="ls_ItemSelected" BackgroundColor="WhiteSmoke">
+                            <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout VerticalOptions="CenterAndExpand">
+                                          <Label x:Name="bName" Text="{Binding breedName}" TextColor="Black" HorizontalOptions="CenterAndExpand" FontSize="Large" FontFamily=""/>
+                                          <Image x:Name="picture" Source="{Binding pic}" HeightRequest="100" WidthRequest="100"/>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                       </ListView>
+                   </Frame>
+                </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

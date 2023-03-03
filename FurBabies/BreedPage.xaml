@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="FurBabies.BreedPage"
+    BackgroundImageSource="paws.png">
+    <ContentPage.Content>
+        <StackLayout Padding="0,50,0,0">
+            <Label x:Name="tLabel" HorizontalTextAlignment="Center" FontSize="40" FontAttributes="Bold" TextDecorations="Underline" TextColor="Yellow"/>
+            <Frame Margin="30,60,30,0" Padding="0,0,0,0" HasShadow="True" HeightRequest="600">
+                <ListView x:Name="ls" VerticalOptions="FillAndExpand" VerticalScrollBarVisibility="Always" RowHeight="160" SeparatorColor="red" BackgroundColor="WhiteSmoke" ItemSelected="ls_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label x:Name="dogName" Text="{Binding name}" FontSize="20" VerticalOptions="CenterAndExpand"/>
+                                    <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                                        <StackLayout Orientation="Horizontal">
+                                            <Image Source="{Binding pic}" HeightRequest="120" WidthRequest="200"/>
+                                            <Label Text="Size: " FontSize="20" VerticalOptions="End"/>
+                                            <Label Text="{Binding size}" FontSize="20" VerticalOptions="End"/>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
